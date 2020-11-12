@@ -1,0 +1,1 @@
+# GU-VKApp-Patterns
